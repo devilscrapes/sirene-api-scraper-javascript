@@ -1,0 +1,10 @@
+{
+  "nafCode": "62.01Z",
+  "departmentCode": "69",
+  "workforceRange": "12",
+  "administrativeStatus": "A",
+  "maxResults": 10,
+  "proxyConfiguration": {
+    "useApifyProxy": false
+  }
+}
